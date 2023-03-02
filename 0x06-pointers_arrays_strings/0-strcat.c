@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  *_strncat - function that concatenates two strings. it will use
  * at most n bytes from src. src does not need to be null terminated.
